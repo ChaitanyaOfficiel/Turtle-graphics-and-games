@@ -1,2 +1,7 @@
 # my-geek-by-using-turtle-module
-From turtle module i have created some countries and other flag and other this 
+This is Turtle Graphics and games using turtle module in python.
+
+Bangladesh Flag:
+I code my first program using turtle module was Bangladesh Flag. This program has to background seagreen and circle in the not middle portion but to the right ward.
+
+
